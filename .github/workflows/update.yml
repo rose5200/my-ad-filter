@@ -24,4 +24,3 @@ jobs:
           git add mobile_final.txt
           git commit -m "auto update ad rules" || true
           git push
-
