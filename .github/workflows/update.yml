@@ -1,0 +1,27 @@
+name: Auto Merge Rules
+on:
+  schedule:
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install requests
+        run: pip install requests
+      - name: Run merge script
+        run: python merge.py
+      - name: Commit new file
+        run: |
+          git config user.name Robot
+          git config user.email robot@qq.com
+          git add mobile_final.txt
+          git commit -m "auto update ad rules" || true
+          git push
+
