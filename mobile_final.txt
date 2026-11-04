@@ -2,7 +2,7 @@
 ! Title: 融合规则手机版-Jason
 ! Homepage: https://github.com/rose5200/my-ad-filter
 ! Description: HalfLife移动端规则+EasyList基础广告+EasyPrivacy隐私防护+Cookie弹窗拦截+自定义恶意跳转黑名单
-! Last modified: 2026-11-04 15:52:34
+! Last modified: 2026-11-04 21:38:28
 
 
 ! 【拉取失败】HalfLife 移动端 | https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt | 错误：404 Client Error: Not Found for url: https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
@@ -11,10 +11,10 @@
 ! ========== EasyList ==========
 
 [Adblock Plus 2.0]
-! Checksum: pdssFzhpbCdUyLxncqCKxw
-! Version: 202611041542
+! Checksum: tAZt6iU2dkUcEuswMQFmug
+! Version: 202611042121
 ! Title: EasyList
-! Last modified: 04 Nov 2026 15:42 UTC
+! Last modified: 04 Nov 2026 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17589,6 +17589,7 @@ browsershots.org#@#.advert_area
 ||af6ca65844.com^
 ||af9bb5da67.com^
 ||afanglffjywuu.site^
+||afbvgsifehglf.space^
 ||afcontent.net^
 ||afcwphzvleh.com^
 ||afcyhf.com^
@@ -19197,6 +19198,7 @@ browsershots.org#@#.advert_area
 ||axswhgkytfd.com^
 ||axtglbfykxrew.online^
 ||axupfpniadauk.site^
+||axuzesiruriiv.site^
 ||axvepvjfdoefp.online^
 ||axvhirojna.in^
 ||axvjfzbwezssw.site^
@@ -20762,6 +20764,7 @@ browsershots.org#@#.advert_area
 ||breakingcapricorn.com^
 ||breakingunidentifiedperfection.com^
 ||breastfeedingdelightedtease.com^
+||brebiqxgwhktw.site^
 ||brebo.xyz^
 ||bred4tula.com^
 ||bredsoy.com^
@@ -22330,6 +22333,7 @@ browsershots.org#@#.advert_area
 ||click.scour.com^
 ||click4.pro^
 ||clickadsource.com^
+||clickadu.io^
 ||clickadu.net^
 ||clickagy.com^
 ||clickallow.net^
@@ -23321,6 +23325,7 @@ browsershots.org#@#.advert_area
 ||cswzdujrpvyra.site^
 ||csxbezadpeazu.site^
 ||csygdrdbwobsh.space^
+||cszexsimhwrrn.space^
 ||ct11.biz^
 ||ctailhmpxgzlr.online^
 ||ctaopbfpep.in^
@@ -23994,6 +23999,7 @@ browsershots.org#@#.advert_area
 ||ddlpahnomzxfn.website^
 ||ddmctsbqysfgi.website^
 ||ddmkypkhddtsl.online^
+||ddnmgkbujtswr.website^
 ||ddoqqjhhwf.com^
 ||ddoxrzfxuulwg.site^
 ||ddrflcgbykjdn.online^
@@ -25930,6 +25936,7 @@ browsershots.org#@#.advert_area
 ||ecaqbwghfrwkm.site^
 ||ecchvrxiftetv.website^
 ||ecdhfydktzlvg.com^
+||ecdmizqngxzzq.site^
 ||ecdwm.com^
 ||ecdzsviaqbxfk.site^
 ||ecedimktjtwkc.space^
@@ -26029,6 +26036,7 @@ browsershots.org#@#.advert_area
 ||eehodxxxqrbba.website^
 ||eehuzaih.com^
 ||eeigvdirpfmob.online^
+||eeiyyjlherscv.site^
 ||eejyssscgubfl.website^
 ||eekbhhrgusizj.website^
 ||eekcelebrate.com^
@@ -26981,6 +26989,7 @@ browsershots.org#@#.advert_area
 ||euvdyv.com^
 ||euxeqpxgrczcg.online^
 ||euxifwwuodhwx.website^
+||euxnoxhweugaa.online^
 ||euxtdcnpkqmcn.site^
 ||euyibrdntaqmv.website^
 ||euzlrelammhfi.online^
@@ -27472,6 +27481,7 @@ browsershots.org#@#.advert_area
 ||fbihxasvsvcln.site^
 ||fbnayfsagcchw.space^
 ||fbnazqugcohsu.space^
+||fbnerumrpwobt.space^
 ||fbnimeaujrbup.website^
 ||fboirhttd.com^
 ||fbojksrucqczm.space^
@@ -27641,6 +27651,7 @@ browsershots.org#@#.advert_area
 ||ferularfirmerauncel.qpon^
 ||feruleucoid.com^
 ||fervorsixtiesveteran.com^
+||fervvqxoshqfa.space^
 ||ferziendfljud.site^
 ||fescuesbracky.cyou^
 ||fesecrxmwowzq.site^
@@ -32155,6 +32166,7 @@ browsershots.org#@#.advert_area
 ||ijmkxepceoabo.site^
 ||ijmrqatwfuemc.website^
 ||ijnthmutgkrvp.online^
+||ijoxegkxbrrqr.site^
 ||ijpopvca.com^
 ||ijptdajxzkxsa.space^
 ||ijrjvfnswmjuz.online^
@@ -33553,6 +33565,7 @@ browsershots.org#@#.advert_area
 ||jilqtoodfo.in^
 ||jilteekookri.com^
 ||jilwueaoshhby.site^
+||jilypbbncsyti.website^
 ||jimgfxkebskny.site^
 ||jimhloyoiczgn.space^
 ||jimjampatted.com^
@@ -33832,6 +33845,7 @@ browsershots.org#@#.advert_area
 ||jpiiastwrhiyd.online^
 ||jpisoprhajjyx.space^
 ||jpixwkrjebyht.online^
+||jpkddgdrthaor.space^
 ||jpktldryxvuzk.online^
 ||jpkwoyveladnt.online^
 ||jpmfsuoxmftku.site^
@@ -34514,6 +34528,7 @@ browsershots.org#@#.advert_area
 ||kfkcialdwxput.online^
 ||kfkgfumirrdtr.space^
 ||kflnfccqidisy.online^
+||kfnizrwzivcsu.site^
 ||kfnxjtzh.com^
 ||kfocxyufqeoyw.online^
 ||kfphcdwvqtn.com^
@@ -34949,6 +34964,7 @@ browsershots.org#@#.advert_area
 ||kpfbksehrvell.space^
 ||kphsqtglfxqim.space^
 ||kpigpglvlxlhi.online^
+||kpjhskjidjiwy.space^
 ||kpjpu8m6p9bj685b7ijlewh7bb4o4q2v.cfd^
 ||kpkhqxvshdozq.online^
 ||kpkqvqjvypgog.site^
@@ -36443,6 +36459,7 @@ browsershots.org#@#.advert_area
 ||lrldmqtslbish.site^
 ||lrlqiohtorwwl.website^
 ||lrnumdzqvryvw.online^
+||lrnxjrqvhczjx.space^
 ||lrorwzpayomsy.space^
 ||lrpcqarwprvdy.site^
 ||lrqqsseldxksb.online^
@@ -37774,6 +37791,7 @@ browsershots.org#@#.advert_area
 ||mnmszbxvzjrcz.site^
 ||mnonhcqwtgggd.site^
 ||mnooaodzcwfxu.space^
+||mnpjetwykatmh.website^
 ||mnpztikzwywnd.space^
 ||mnqcpxjbfaaep.space^
 ||mnqojzussbscy.website^
@@ -38349,6 +38367,7 @@ browsershots.org#@#.advert_area
 ||mxgygkjqxdxsj.website^
 ||mxhplnujqwmoj.website^
 ||mxhybnnilsini.site^
+||mxirylhzpkbtw.space^
 ||mxizjfeqmnmzc.site^
 ||mxjvsovvqnwew.online^
 ||mxjxinpidvsih.site^
@@ -39404,6 +39423,7 @@ browsershots.org#@#.advert_area
 ||nqeytxdajruxt.space^
 ||nqhjplxwjhqps.site^
 ||nqhtwgphsgujn.space^
+||nqidrahwexcqd.site^
 ||nqifvntxhqpxx.store^
 ||nqkgcjhosjdjl.space^
 ||nqledtidlheid.space^
@@ -39638,6 +39658,7 @@ browsershots.org#@#.advert_area
 ||nwemnd.com^
 ||nwfkhvqxjxpll.online^
 ||nwfuevalvjnar.space^
+||nwgageutmzcwx.website^
 ||nwiedbowafasz.online^
 ||nwjunrzhppxvd.space^
 ||nwlenexohjiomt.com^
@@ -43742,6 +43763,7 @@ browsershots.org#@#.advert_area
 ||qieifcyscntul.space^
 ||qigkvucouqnjs.space^
 ||qihegkxiytaah.online^
+||qiikrofqerfbu.site^
 ||qiix78.net^
 ||qimagnauebhcq.online^
 ||qimqebsonbvvy.space^
@@ -45737,6 +45759,7 @@ browsershots.org#@#.advert_area
 ||rrkvgegrywbkf.site^
 ||rrlpfsdammzii.site^
 ||rrnkmzaflln.com^
+||rrpbdjwpvqovf.online^
 ||rrpcjhtacwgki.space^
 ||rrpsjnegulocc.site^
 ||rrpuoifwzxgkh.site^
@@ -45758,6 +45781,7 @@ browsershots.org#@#.advert_area
 ||rsgumgvzqwnce.online^
 ||rshtlian.com^
 ||rslqkbwrxkwyk.site^
+||rsmuelfxhyrbh.website^
 ||rsogufleygbzr.store^
 ||rsorkpwtboedu.website^
 ||rsptkogqvascs.site^
@@ -51064,6 +51088,7 @@ browsershots.org#@#.advert_area
 ||ulakmnnxbithg.online^
 ||ulamafluxive.com^
 ||ulaodqkxrgard.website^
+||ulayieklcdyas.site^
 ||ulbruiqadlmaa.online^
 ||ulbsqeyjjthea.site^
 ||ulcgleqeazcuo.site^
@@ -51126,6 +51151,7 @@ browsershots.org#@#.advert_area
 ||umhkzidngrmor.website^
 ||umisrvofhmysc.site^
 ||umkchjusteppy.site^
+||umljflgaddcdk.space^
 ||umlwjozzjdveq.website^
 ||umlyyoggkgxbk.site^
 ||ummsyogyankeg.website^
@@ -51792,6 +51818,7 @@ browsershots.org#@#.advert_area
 ||uuqfsvairtiib.site^
 ||uurufnyiiriee.online^
 ||uuswphqtty.com^
+||uutgblvypeoss.site^
 ||uuuwxykgcvcgp.website^
 ||uuvmpwgygwuag.space^
 ||uuwjrmvavkgrs.site^
@@ -51841,6 +51868,7 @@ browsershots.org#@#.advert_area
 ||uwsxggozgndtg.online^
 ||uwterphco.com^
 ||uwtybptzsqcvo.online^
+||uwuxkibwqmaze.website^
 ||uwvdhaopwtvpw.online^
 ||uwvuepnaaefvm.space^
 ||uwvyhvamdjdbe.online^
@@ -55766,6 +55794,7 @@ browsershots.org#@#.advert_area
 ||ykfckycskdhlx.space^
 ||ykgujbwuuntmn.online^
 ||ykhikqgrdmfll.website^
+||ykiacgnhelzjs.space^
 ||ykixhtyppkoko.space^
 ||ykiyhzbgnqkys.online^
 ||ykkhybgrbzqta.online^
@@ -56847,6 +56876,7 @@ browsershots.org#@#.advert_area
 ||zorquaaeybckx.space^
 ||zorseeckoaroa.net^
 ||zosdscrdnltbz.space^
+||zotifypvvjhyf.space^
 ||zotqhsyqbetkg.online^
 ||zouloafi.net^
 ||zoureuclubwzy.site^
@@ -77882,10 +77912,10 @@ gamcore.com##li.d-md-block > a[rel]
 ! ========== EasyPrivacy ==========
 
 [Adblock Plus 1.1]
-! Checksum: LuPI9qGKOqEIWGyPItsa1w
-! Version: 202611041542
+! Checksum: 2vuidfDqdaLpFv+IK06QJg
+! Version: 202611042121
 ! Title: EasyPrivacy
-! Last modified: 04 Nov 2026 15:42 UTC
+! Last modified: 04 Nov 2026 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -78107,6 +78137,7 @@ gamcore.com##li.d-md-block > a[rel]
 /alog.min.js
 /alog/dp.min.js
 /amazon_linker.min.js
+/amc.gif?
 /amp-access/cta/*
 /amp-access/cta?
 /amp-access/ping?
@@ -80591,6 +80622,7 @@ gamcore.com##li.d-md-block > a[rel]
 /v1/stats/track
 /v1/tracker.js
 /v1/viewport_events
+/v1/vitals?
 /v2/pv-data?
 /v4/analytics/*$~xmlhttprequest
 /v4/metrics
@@ -85406,6 +85438,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adpick.co.kr^$third-party
 ||adtive.com^$third-party
 ||aicontents.net^$third-party
+||alphwidget.com^$third-party
 ||contentsfeed.com^$third-party
 ||dawin.tv^$third-party
 ||logger.co.kr^$third-party
@@ -90074,13 +90107,17 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adlc-exchange.toast.com^
 ||applog.ssgdfs.com^
 ||assets.datarize.ai^
+||assets.poxo.com/jet/jet.js
 ||cafe24.com/cfa.js
 ||cafe24.com/weblog.js
+||cdn.datamanager.co.kr/0/tcsdm.js
+||cdn.onetag.co.kr/0/tcs.js
 ||cm-exchange.toast.com^
 ||dadispapi.gmarket.co.kr^
 ||dco.coupang.com^
 ||dtr-onsite-feed.datarize.ai^
 ||event.hackle.io^
+||js-error-tracer-api.cafe24.com^
 ||log.adplex.co.kr^
 ||log.cizion.com^
 ||log.mofa.go.kr^
@@ -90092,6 +90129,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mtag.mman.kr^
 ||naver.com/mcollector/
 ||ngc1.nsm-corp.com^
+||ntm.pstatic.net/ex/nlog-v2.js
+||ntm.pstatic.net/ex/nlog.js
 ||performanceplay.co.kr^
 ||realtime-profiling.datarize.ai^
 ||recobell.io/rest/logs?
